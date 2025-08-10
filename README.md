@@ -9,7 +9,7 @@ The dashboard has been exported to **PDF** for easy viewing and is intended sole
 ---
 
 ## 📥 View the Dashboard (PDF)
-[**Click here to view the PDF**](https://github.com/silentwings6/PBI-Portfolio/raw/main/PBI%20Portfolio.pdf)
+[**Click here to view the PDF**](https://github.com/silentwings6/PBI-Portfolio/blob/main/Dummy_Gross%20Margin%20Forecast%20%26%20Actuals.pdf)
 
 ---
 
